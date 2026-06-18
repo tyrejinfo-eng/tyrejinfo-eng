@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Ty Rejinfo 👋
 
-<!--
-**tyrejinfo-eng/tyrejinfo-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `CodingLikeACaveman.cs`
 
-Here are some ideas to get you started:
+```csharp
+using System;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+namespace Ty.Rejinfo;
+
+public class TyrejInfo : Developer 
+{
+    public override string CodingStyle => "Caveman";
+}
+
+var currentStatus = developer.Tools switch
+{
+    Tools.ModernIDE => "Confused",
+    Tools.ClubAndRock => "CodingLikeACaveman",
+    _ => "Compiling..."
+};
+
+
+💻 Terminal
+$ dotnet clear
+Pronouns: Use them if you want, I'm just a coder that's here to code.
+
+$ dotnet restore
+Working on: MonsterCoder — a sovereign, event-driven development ecosystem where you build software in a 3D visual city environment.
+🤝 I’m looking for help with reviews and testing.
+
+$ dotnet build
+Fun Fact: I am a self-taught Developer that started on an Indie Game development project in early 2025. I quickly fell in love with code and now spend every waking moment developing, reviewing, and auditing.
+💬 Ask me about: Cybersecurity, AI Engineering, Game Development, Software Development
+
+$ dotnet run --public Ty.Rejinfo.App
+​📧 Contact: ty.rejinfo@gmail.com / syntheticgamelabs@gmail.com
