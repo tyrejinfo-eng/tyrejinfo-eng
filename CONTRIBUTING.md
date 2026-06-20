@@ -8,6 +8,7 @@ This organization includes projects such as:
 * MonsterTools
 * AIBlue Copilot
 * SGL-DevEngine
+* SGL SyntheticAI 
 
 These projects are built around deterministic software engineering, modular architecture, and extensible tooling systems.
 
