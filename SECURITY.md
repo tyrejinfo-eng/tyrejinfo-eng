@@ -52,6 +52,7 @@ Security policy applies to:
 * MonsterTools
 * AIBlue Copilot
 * SGL-DevEngine
+* SGL SyntheticAI
 * Supporting libraries and tooling
 
 It does NOT cover:
