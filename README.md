@@ -3,7 +3,7 @@
 ### Sovereign Architect of the MonsterCoder Ecosystem (C# / Event-Driven Engine)
 > *Solo-engineering a fully autonomous, decoupled software development platform at Synthetic Game Labs.*
 > *Read the full technical specification in [ReadMe.MonsterCoder.md](./ReadMe.MonsterCoder.md).*
-
+https://github.com/tyrejinfo-eng/tyrejinfo-eng/wiki
 ---
 
 
