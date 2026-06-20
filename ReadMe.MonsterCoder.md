@@ -303,3 +303,16 @@ Rather than replacing developers, MonsterCoder empowers them with structured coo
 
 **Synthetic Game Labs**
 **Created by Ty Rejinfo**
+
+<img width="1919" height="1079" alt="no glb files rendered " src="https://github.com/user-attachments/assets/436d174d-8cb0-4f88-b13c-7ef28f9db818" />
+
+<img width="1919" height="1079" alt="Screenshot 2026-06-20 125733" src="https://github.com/user-attachments/assets/3c024390-f7da-4d96-a987-e17385619eeb" />
+
+<img width="1919" height="1079" alt="Screenshot 2026-06-20 130701" src="https://github.com/user-attachments/assets/f479127c-ddd1-4ad3-9c8a-2673bf1e79e3" />
+
+<img width="1865" height="1079" alt="Screenshot 2026-06-20 125842" src="https://github.com/user-attachments/assets/e4c848c1-f503-49fb-8c8d-203f971cdaef" />
+
+<img width="1888" height="1018" alt="runtimetick" src="https://github.com/user-attachments/assets/b50a2100-47bf-4eba-bb6e-499b46592765" />
+
+
+
