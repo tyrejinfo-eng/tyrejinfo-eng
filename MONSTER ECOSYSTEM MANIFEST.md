@@ -1,3 +1,6 @@
+<img width="1890" height="1005" alt="Screenshot 2026-06-20 013807" src="https://github.com/user-attachments/assets/ffc47cc7-2b38-46cc-a765-659b4d18513b" />
+<img width="1865" height="1079" alt="Screenshot 2026-06-20 125842" src="https://github.com/user-attachments/assets/28870a53-aaca-4474-a6ea-da0f9f17fa9a" />
+<img width="1919" height="1079" alt="Screenshot 2026-06-20 130155" src="https://github.com/user-attachments/assets/37cb36b4-2efa-40a6-96be-dc240e588468" />
 # 🧠 Monster Ecosystem Manifest
 
 ## Version 1.0
