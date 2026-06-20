@@ -28,19 +28,21 @@ var currentStatus = developer.Tools switch
 
 
 💻 Terminal
-dotnet clear
+'''bash
+
+$ dotnet clear
 Pronouns: Use them if you want, I'm just a coder that's here to code.
 
-dotnet restore
+$ dotnet restore
 Working on: MonsterCoder — a sovereign, event-driven development ecosystem where you build software in a 3D visual city environment.
 
 🤝 I’m looking for help with reviews and testing.
 
-dotnet build
+$ dotnet build
 Fun Fact: I am a self-taught Developer that started on an Indie Game development project in early 2025. I quickly fell in love with code and now spend every waking moment developing, reviewing, and auditing.
 
 💬 Ask me about: Cybersecurity, AI Engineering, Game Development, Software Development
 
-dotnet run --public Ty.Rejinfo.App
+$ dotnet run --public Ty.Rejinfo.App
 
 ​📧 Contact: ty.rejinfo@gmail.com / syntheticgamelabs@gmail.com
