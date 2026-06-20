@@ -27,9 +27,10 @@ var currentStatus = developer.Tools switch
 };
 
 
-💻 Terminal
-'''bash
 
+
+💻 Terminal
+$bash
 $ dotnet clear
 Pronouns: Use them if you want, I'm just a coder that's here to code.
 
