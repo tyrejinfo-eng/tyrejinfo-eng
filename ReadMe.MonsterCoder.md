@@ -305,6 +305,9 @@ Rather than replacing developers, MonsterCoder empowers them with structured coo
 **Synthetic Game Labs**
 **Created by Ty Rejinfo**
 
+YouTube
+https://youtu.be/zlhCEDRnzao
+
 <img width="1919" height="1079" alt="no glb files rendered " src="https://github.com/user-attachments/assets/436d174d-8cb0-4f88-b13c-7ef28f9db818" />
 
 <img width="1919" height="1079" alt="Screenshot 2026-06-20 125733" src="https://github.com/user-attachments/assets/3c024390-f7da-4d96-a987-e17385619eeb" />
