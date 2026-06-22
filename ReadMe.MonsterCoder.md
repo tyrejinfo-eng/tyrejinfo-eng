@@ -9,6 +9,9 @@ YouTubeDemo
 https://youtu.be/zlhCEDRnzao
 ---
 
+<img width="1919" height="1079" alt="Screenshot 2026-06-22 204506" src="https://github.com/user-attachments/assets/9b805ad7-5439-46f6-8a80-9ac541555170" />
+
+
 ## Overview
 
 MonsterCoder is the flagship software engineering platform developed by **Synthetic Game Labs**.
