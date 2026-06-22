@@ -5,7 +5,8 @@
 > *Read the full technical specification in [ReadMe.MonsterCoder.md](./ReadMe.MonsterCoder.md).*
 https://github.com/tyrejinfo-eng/tyrejinfo-eng/wiki
 ---
-<img width="1851" height="1004" alt="Screenshot 2026-06-18 203502" src="https://github.com/user-attachments/assets/cd26ecc7-cfda-4561-916b-a29702547803" />
+<img width="1919" height="1079" alt="Screenshot 2026-06-22 204506" src="https://github.com/user-attachments/assets/9922603b-dd9d-4b78-af18-2bd1cdf4fcc2" />
+
 
 https://youtu.be/zlhCEDRnzao
 
