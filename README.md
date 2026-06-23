@@ -8,7 +8,7 @@ https://github.com/tyrejinfo-eng/tyrejinfo-eng/wiki
 <img width="1919" height="1079" alt="Screenshot 2026-06-22 204506" src="https://github.com/user-attachments/assets/9922603b-dd9d-4b78-af18-2bd1cdf4fcc2" />
 
 
-https://youtu.be/zlhCEDRnzao
+(https://youtu.be/Vj8kK86SGmg)
 
 ### `CodingLikeACaveman.cs`
 
