@@ -5,7 +5,8 @@
 > *Read the full technical specification in [ReadMe.MonsterCoder.md](./ReadMe.MonsterCoder.md).*
 https://github.com/tyrejinfo-eng/tyrejinfo-eng/wiki
 ---
-<img width="1919" height="1079" alt="Screenshot 2026-06-22 204506" src="https://github.com/user-attachments/assets/9922603b-dd9d-4b78-af18-2bd1cdf4fcc2" />
+<img width="1672" height="941" alt="ChatGPT Image Jul 7, 2026, 07_58_52 PM" src="https://github.com/user-attachments/assets/83c67a46-e578-40ba-be12-ac839cdf8054" />
+
 
 
 (https://youtu.be/Vj8kK86SGmg)
